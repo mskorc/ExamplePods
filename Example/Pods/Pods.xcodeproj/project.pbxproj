@@ -124,9 +124,9 @@
 		50E9A3AA12AF651B87810E830C961609 /* ExamplePods */ = {
 			isa = PBXGroup;
 			children = (
+				82E2397D2199B7FC003F5542 /* Classes */,
 				7EE8F06EEC96780E4733403E931193E2 /* Pod */,
 				0CB48E0BAA2964EE3C3558CC7E8E3A76 /* Support Files */,
-				82E2397B2199B749003F5542 /* MSAwesomeView.swift */,
 			);
 			name = ExamplePods;
 			path = ../..;
@@ -159,6 +159,14 @@
 				50E9A3AA12AF651B87810E830C961609 /* ExamplePods */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		82E2397D2199B7FC003F5542 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				82E2397B2199B749003F5542 /* MSAwesomeView.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		B4E5926021B1E95BE88E6B7E19238EAD /* Products */ = {

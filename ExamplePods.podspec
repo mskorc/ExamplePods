@@ -31,7 +31,7 @@ Long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'ExamplePods/Classes/**/*'
+  s.source_files = 'ExamplePods/Classes/*'
   
   # s.resource_bundles = {
   #   'ExamplePods' => ['ExamplePods/Assets/*.png']
