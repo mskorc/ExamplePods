@@ -22,7 +22,7 @@ pod 'ExamplePods'
 
 ## Author
 
-martin.skorc, martin.skorc@outfit7.com
+martin.skorc, martinskorc@gmail.com
 
 ## License
 
