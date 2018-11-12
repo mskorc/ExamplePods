@@ -1,0 +1,22 @@
+{
+  "name": "ExamplePods",
+  "version": "0.1.0",
+  "summary": "A short description of ExamplePods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/martin.skorc/ExamplePods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "martin.skorc": "martin.skorc@outfit7.com"
+  },
+  "source": {
+    "git": "https://github.com/martin.skorc/ExamplePods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ExamplePods/Classes/**/*"
+}
