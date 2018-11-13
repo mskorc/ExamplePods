@@ -7,7 +7,7 @@
 
 import UIKit
 
-class MSAwesomeView: UIView {
+public class MSAwesomeView: UIView {
 
     override init(frame: CGRect) {
         super.init(frame: frame)
